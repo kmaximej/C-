@@ -1,0 +1,10 @@
+C:\Users\valerio.307907\Source\Repos\StudentsApplications\StudentsApplications\bin\Debug\StudentsApplications.exe.config
+C:\Users\valerio.307907\Source\Repos\StudentsApplications\StudentsApplications\bin\Debug\StudentsApplications.exe
+C:\Users\valerio.307907\Source\Repos\StudentsApplications\StudentsApplications\bin\Debug\StudentsApplications.pdb
+C:\Users\valerio.307907\Source\Repos\StudentsApplications\StudentsApplications\obj\Debug\StudentsApplications.csproj.AssemblyReference.cache
+C:\Users\valerio.307907\Source\Repos\StudentsApplications\StudentsApplications\obj\Debug\StudentsApplications.Form1.resources
+C:\Users\valerio.307907\Source\Repos\StudentsApplications\StudentsApplications\obj\Debug\StudentsApplications.Properties.Resources.resources
+C:\Users\valerio.307907\Source\Repos\StudentsApplications\StudentsApplications\obj\Debug\StudentsApplications.csproj.GenerateResource.cache
+C:\Users\valerio.307907\Source\Repos\StudentsApplications\StudentsApplications\obj\Debug\StudentsApplications.csproj.CoreCompileInputs.cache
+C:\Users\valerio.307907\Source\Repos\StudentsApplications\StudentsApplications\obj\Debug\StudentsApplications.exe
+C:\Users\valerio.307907\Source\Repos\StudentsApplications\StudentsApplications\obj\Debug\StudentsApplications.pdb
